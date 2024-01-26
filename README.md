@@ -3,9 +3,9 @@
 <p align="left">
 Pastikan untuk menginstall modul:
 <br>
-<p>Psycopg2 dengan cara => </p><a href="https://pypi.org/project/psycopg2/" target="blank">pip install pyscopg2</a>
+<p>Psycopg2 dengan cara =><a href="https://pypi.org/project/psycopg2/" target="blank">pip install pyscopg2</a></p>
 <br>
-<p>Configparser dengan cara => </p><a href="https://pypi.org/project/configparser/" target="blank">pip install configparser</a>
+<p>Configparser dengan cara => <a href="https://pypi.org/project/configparser/" target="blank">pip install configparser</a></p>
 </p>
 
 👋 Silahkan setup konfigurasi database melalui database.ini
