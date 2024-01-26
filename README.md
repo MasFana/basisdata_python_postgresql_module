@@ -8,6 +8,7 @@ Pastikan untuk menginstall modul:
 </p>
 
 👋 Silahkan setup konfigurasi database melalui database.ini
+<br>
 😁 Jika perlu contoh, temen-temen bisa melihat file database.ini.example
 
 <p align="left">Terdapat basic CRUD yang ada di repositori ini, temen-temen bisa kembangkan lagi ya!</p>
