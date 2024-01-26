@@ -2,7 +2,9 @@
 
 <p align="left">
 Pastikan untuk menginstall modul:
+<br>
 <a href="https://pypi.org/project/psycopg2/" target="blank">Psycopg2 dengan cara => pip install pyscopg2</a>
+<br>
 <a href="https://pypi.org/project/configparser/" target="blank">Configparser dengan cara =>  pip install configparser</a>
 </p>
 
